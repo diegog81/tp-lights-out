@@ -1,2 +1,4 @@
 # tp-lights-out
 Trabajo Practico integrador final del curso de Técnicas de Programación del Centro de Formación Profesional Nro 34. 2do Cuatrimestre 2017
+
+Se trata de un juego individual y se desarrolla en un tablero de 5 x 5. El objetivo es lograr apagar todas las luces encendidas en el tablero. Cuando todas las luces han sido apagadas el jugador ha ganado. El juego comienza con un patrón de luces encendidas en el tablero. En cada turno se debe seleccionar algun casillero y si la luz estaba encendida se apagará y viceversa. Esta acción también afectará a sus vecinas. (Horizontal y vertical, pero no diagonal).
